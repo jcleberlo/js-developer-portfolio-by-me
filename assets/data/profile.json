@@ -1,0 +1,69 @@
+{
+  "name": "Cléber Oliveira",
+  "photo": "https://avatars.githubusercontent.com/u/148983288?v=4",
+  "job": "Full Stack Junior",
+  "localidade": "Fortaleza - CE",
+  "telefone": "(85) 99855-7928",
+  "email": "jcleberlo@hotmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/jcleberlo/js-developer-portfolio/main/data/imgs/js.png"
+      },
+      {
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/jcleberlo/js-developer-portfolio/main/data/imgs/css.png"
+      },
+      {
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/jcleberlo/js-developer-portfolio/main/data/imgs/html.png"
+      }
+    ],
+    "softSkills": [
+      "Facilidade com tarefas práticas",
+      "Comunicação",
+      "Trabalho em equipe",
+      "Orgalização",
+      "Comprometimento com resultados"
+    ]
+  },
+  "languages": [
+    "Português",
+    "Inglês (intermediário)"
+  ],
+   "portfolio": [
+    {
+      "name": "Desafio Pokedex DIO - JavaScript / CSS / HTML",
+      "url": "https://github.com/jcleberlo/js-developer-pokedex",
+      "github": true
+    },
+    {
+      "name": "Desafio Portfolio DIO - JavaScript / CSS / HTML",
+      "url": "https://github.com/jcleberlo/js-developer-portfolio",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Supervisor de vendas",
+      "period": "2020 - 2023",
+      "description": "Supervisão de vendas"
+    },
+    {
+      "name": "Consultor de vendas",
+      "period": "2007 - 2020",
+      "description": "Consultoria de vendas"
+    }
+  ],
+  "education": [
+    {
+      "name": "Lógica de programação",
+      "period": "2023"
+    },
+    {
+      "name": "JavaScript",
+      "period": "2023"
+    }
+  ]
+}

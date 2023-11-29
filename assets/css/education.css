@@ -1,0 +1,34 @@
+.education {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    list-style: none; 
+}
+
+.education ul {
+    padding: 0;
+    margin: 0;
+}
+
+.education ul li {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin: 0 0 1rem 0;
+}
+
+.education ul li h3 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-size: 1.125rem;
+    font-weight: 700;
+}
+
+.education ul li p {
+    margin: 0;
+    font-size: .825rem;
+}
